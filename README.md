@@ -22,6 +22,8 @@ Welcome to the CyberFiction Clone project! This project is an interactive and im
 - GSAP (GreenSock Animation Platform)
 - Locomotive Scroll
 
+## Meduim
+[link](https://medium.com/@khushi.saxena.1108/clone-website-of-cyberfiction-82bfa17eaa8b)
 
 
 ## License
@@ -30,5 +32,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Inspiration: CyberFiction
+- [Inspiration](https://www.cyberfiction.io/)
 
