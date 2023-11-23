@@ -1,6 +1,6 @@
 # CYBERFICTION-Clone
 
-Welcome to the CyberFiction Clone project! This project is an interactive and immersive website inspired by CyberFiction, featuring captivating storytelling, stunning visuals, and dynamic user experiences. It's built using HTML, CSS, and JavaScript.
+Welcome to the CyberFiction Clone project! This project is an interactive and immersive website inspired by CyberFiction, featuring captivating storytelling, stunning visuals, and dynamic user experiences. It's built using HTML, CSS, JavaScript and GSAP.
 
 ## Features
 
