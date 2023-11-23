@@ -31,5 +31,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Inspiration: CyberFiction
-- Background image: [Unsplash](https://unsplash.com)
 
