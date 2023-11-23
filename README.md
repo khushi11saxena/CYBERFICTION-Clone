@@ -12,8 +12,7 @@ Welcome to the CyberFiction Clone project! This project is an interactive and im
 
 
 ## Preview
-
-<img src="https://github.com/khushi11saxena/CYBERFICTION-Clone/blob/main/Screenshot%202023-11-23%20204609.png">
+![Local Image](images/logo.png)
 
 ## Technologies Used
 
