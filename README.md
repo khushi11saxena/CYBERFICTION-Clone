@@ -12,7 +12,7 @@ Welcome to the CyberFiction Clone project! This project is an interactive and im
 
 
 ## Preview
-![Local Image](images/logo.png)
+![CLONE](CYBERFICTION-Clone/clone.png)
 
 ## Technologies Used
 
