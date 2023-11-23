@@ -556,7 +556,7 @@ canvas{
     justify-content: center;
     align-items: center;
     gap: 15px;
-    top: 20%;
+    top: 25%;
 }
 #ryan h1{
     font-size: 50px;
@@ -613,7 +613,7 @@ canvas{
     height: 190px;
     border-right: 1px solid #a3a3a3;
     left: 50%;
-    top: 70%;
+    top: 80%;
 }
 @media screen and (max-width:500px) 
 {
