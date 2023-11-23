@@ -12,7 +12,10 @@ Welcome to the CyberFiction Clone project! This project is an interactive and im
 
 
 ## Preview
-![CLONE](CYBERFICTION-Clone/clone.png)
+
+![CLONE](https://github.com/khushi11saxena/CYBERFICTION-Clone/assets/103021512/fb6e2b58-ef31-4bef-836f-afd0c7a5e02f)
+<img src="clone.png" alt="Example Image" width="300"/>
+![clooo](https://github.com/khushi11saxena/CYBERFICTION-Clone/blob/96a134c40244710b4593fc354feb93aca4d2ca75/Screenshot%202023-11-23%20204609.png)
 
 ## Technologies Used
 
@@ -21,6 +24,7 @@ Welcome to the CyberFiction Clone project! This project is an interactive and im
 - JavaScript
 - GSAP (GreenSock Animation Platform)
 - Locomotive Scroll
+
 
 
 ## License
