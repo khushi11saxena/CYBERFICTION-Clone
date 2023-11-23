@@ -106,7 +106,10 @@ canvas{
     border: none;
 }
 #nav>#logo>a>img{
-    height: 40px;
+    height: 30px;
+}
+#nav>#logo>a{
+    padding-right: 10px;
 }
 #page>h3{
     position: absolute;
@@ -659,6 +662,7 @@ canvas{
 #fun>#social>button:hover{
     text-decoration: none;
     background-color: #dadada;
+    transition:1.5s;
 }
 #fun>#social>button:hover>a{
     color: #1a0028;
